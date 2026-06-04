@@ -1,0 +1,204 @@
+/* Montserrat Font Family */
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/academic/assets/fonts/Montserrat-Light-6.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/academic/assets/fonts/Montserrat-Medium-7.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/academic/assets/fonts/Montserrat-SemiBold-9.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/academic/assets/fonts/Montserrat-Bold-3.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Paper block layout */
+.paper-block {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+  padding: 15px;
+  border: 1px solid var(--global-border-color);
+  border-radius: 8px;
+}
+
+.paper-image {
+  flex-shrink: 0;
+  width: 260px;
+  align-self: center;
+}
+
+.paper-image img {
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.paper-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.paper-title {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: var(--global-text-color);
+}
+
+.paper-authors {
+  font-size: 0.9em;
+  color: var(--global-text-color);
+}
+
+.paper-venue {
+  font-size: 0.9em;
+  font-style: italic;
+  color: var(--global-text-color-light);
+}
+
+.paper-date {
+  font-size: 0.9em;
+  color: var(--global-text-color-light);
+}
+
+.paper-links {
+  display: flex;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.paper-btn {
+  padding: 3px 11px;
+  background-color: #578efc;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 4px;
+  font-size: 0.9em;
+  transition: all 0.15s ease;
+  border: 2px solid #578efc;
+}
+
+.paper-btn:hover {
+  background-color: #8eb0f3;
+  border-color: #8eb0f3;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+html[data-theme="dark"] {
+  .paper-btn {
+    background-color: #6b9ef1;
+    border-color: #6b9ef1;
+  }
+
+  .paper-btn:hover {
+    background-color: #b4befe;
+    border-color: #b4befe;
+  }
+}
+
+/* Link hover effects */
+a {
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+
+  &:hover {
+    text-decoration-thickness: 2px;
+  }
+}
+
+/* Title hover effects */
+h1, h2, h3, h4, h5, h6 {
+  transition: color 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    color: var(--global-theme-color);
+  }
+}
+
+.page__title:hover {
+  transform: translateX(4px);
+}
+
+.paper-title {
+  transition: color 0.2s ease, transform 0.15s ease;
+  cursor: pointer;
+
+  &:hover {
+    color: #578efc;
+    transform: translateX(3px);
+  }
+}
+
+html[data-theme="dark"] .paper-title:hover {
+  color: #b988f5;
+}
+
+/* Main content hover effects */
+.page__content, .archive__item-excerpt {
+  a:not(.btn):not(.paper-btn) {
+    transition: all 0.2s ease;
+
+    &:hover {
+      color: #578efc;
+      text-decoration-thickness: 2px;
+    }
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    &:hover {
+      color: #578efc;
+      transform: translateX(2px);
+    }
+  }
+}
+
+html[data-theme="dark"] {
+  .page__content, .archive__item-excerpt {
+    a:not(.btn):not(.paper-btn):hover {
+      color: #b988f5;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      &:hover {
+        color: #b988f5;
+      }
+    }
+  }
+}
+
+/* Dark mode icon visibility fixes */
+html[data-theme="dark"] {
+  .author__urls {
+    a {
+      color: #cdd6f4;
+
+      i {
+        opacity: 0.9;
+      }
+
+      &:hover {
+        color: #89b4fa;
+      }
+    }
+  }
+}
