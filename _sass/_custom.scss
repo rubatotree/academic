@@ -183,12 +183,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .paper-title {
-  transition: color 0.2s ease, transform 0.15s ease;
-  cursor: pointer;
-
+  transition: color 0.1s ease;
   &:hover {
     color: #578efc;
-    transform: translateX(3px);
   }
 }
 
