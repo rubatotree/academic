@@ -37,8 +37,8 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <div class="paper-links">
       <a href="https://t7imal.github.io/projects/2026wop/" class="paper-btn">Project</a>
       <a href="https://t7imal.github.io/projects/2026wop/paper.pdf" class="paper-btn">Paper</a>
-      <a href="https://github.com/USTCGCL-WoS/Walk-on-Probes.git" class="paper-btn">Video</a>
-      <a href="https://t7imal.github.io/projects/2026wop/#videos" class="paper-btn">Code</a>
+      <a href="https://www.youtube.com/watch?v=oYvoeyQQdjQ" class="paper-btn">Video</a>
+      <a href="https://github.com/USTCGCL-WoS/Walk-on-Probes.git" class="paper-btn">Code</a>
     </div>
   </div>
 </div>
