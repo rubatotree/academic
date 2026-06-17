@@ -27,6 +27,24 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
 
 <div class="paper-block">
   <div class="paper-image">
+    <img src="/academic/images/publications/2026-ptirgs.jpg" alt="Path-traced Inverse Rendered Gaussians">
+  </div>
+  <div class="paper-info">
+    <div class="paper-title">Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields</div>
+    <div class="paper-authors">Junke Zhu, Hao Zhang, <strong>Yutian Zhu</strong>, Ang Li, Chenxiao Hu, Meng Gai, Fei Zhu, Zhangjin Huang†, Sheng Li†</div>
+    <div class="paper-venue">arXiv:2606.09606 [cs.GR]</div>
+    <div class="paper-date">June, 2026</div>
+    <div class="paper-links">
+      <a href="https://junkzhu.github.io/project_pages/PTIR/" class="paper-btn">Project</a>
+      <a href="https://arxiv.org/abs/2606.09606" class="paper-btn">Paper</a>
+      <!--a href="" class="paper-btn">Video</a-->
+      <a href="https://github.com/junkzhu/PTIR.git" class="paper-btn">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="paper-block">
+  <div class="paper-image">
     <img src="/academic/images/publications/2026-wop.jpg" alt="WoP">
   </div>
   <div class="paper-info">
