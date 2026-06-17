@@ -31,7 +31,7 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
   </div>
   <div class="paper-info">
     <div class="paper-title">Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields</div>
-    <div class="paper-authors">Junke Zhu, Hao Zhang, <strong>Yutian Zhu</strong>, Ang Li, Chenxiao Hu, Meng Gai, Fei Zhu, Zhangjin Huang†, Sheng Li†</div>
+    <div class="paper-authors">Junke Zhu, Hao Zhang, <strong>Yutian Zhu</strong>, Ang Li, Chenxiao Hu, Meng Gai, Fei Zhu, Zhangjin Huang<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span>, Sheng Li<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span></div>
     <div class="paper-venue">arXiv:2606.09606 [cs.GR]</div>
     <div class="paper-date">June, 2026</div>
     <div class="paper-links">
@@ -49,7 +49,7 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
   </div>
   <div class="paper-info">
     <div class="paper-title">Probe-based Walk on Spheres for Efficient Path Reusing</div>
-    <div class="paper-authors">Wanchao Huang*, <strong>Yutian Zhu</strong>*, Qing Fang†, Ligang Liu</div>
+    <div class="paper-authors">Wanchao Huang<span class="author-symbol asterisk" data-tooltip="Both authors contributed equally to this research.">*</span>, <strong>Yutian Zhu</strong><span class="author-symbol asterisk" data-tooltip="Both authors contributed equally to this research.">*</span>, Qing Fang<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span>, Ligang Liu</div>
     <div class="paper-venue">ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2026)</div>
     <div class="paper-date">July, 2026</div>
     <div class="paper-links">
@@ -67,7 +67,7 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
   </div>
   <div class="paper-info">
     <div class="paper-title">Importance Sampling Guided Neural Radiosity</div>
-    <div class="paper-authors">Huangsheng Du, Youcheng Cai†, <strong>Yutian Zhu</strong>, Peifeng Li, and Ligang Liu</div>
+    <div class="paper-authors">Huangsheng Du, Youcheng Cai<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span>, <strong>Yutian Zhu</strong>, Peifeng Li, and Ligang Liu</div>
     <div class="paper-venue">Computers & Graphics, 104472, 2025</div>
     <div class="paper-date">November, 2025</div>
     <div class="paper-links">
