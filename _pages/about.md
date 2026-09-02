@@ -31,7 +31,7 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <img src="/academic/images/publications/2026-ptirgs.jpg" alt="Path-traced Inverse Rendered Gaussians">
   </div>
   <div class="paper-info">
-    <div class="paper-title">Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields</div>
+    <a href="https://junkzhu.github.io/project_pages/PTIR/" class="paper-title paper-title-link">Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields</a>
     <div class="paper-authors">Junke Zhu, Hao Zhang, <strong>Yutian Zhu</strong>, Ang Li, Chenxiao Hu, Meng Gai, Fei Zhu, Zhangjin Huang<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span>, Sheng Li<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span></div>
     <div class="paper-venue">ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH Asia 2026)</div>
     <div class="paper-date">June, 2026</div>
@@ -50,7 +50,7 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <img src="/academic/images/publications/2026-wop.jpg" alt="WoP">
   </div>
   <div class="paper-info">
-    <div class="paper-title">Probe-based Walk on Spheres for Efficient Path Reusing</div>
+    <a href="https://t7imal.github.io/projects/2026wop/" class="paper-title paper-title-link">Probe-based Walk on Spheres for Efficient Path Reusing</a>
     <div class="paper-authors">Wanchao Huang<span class="author-symbol asterisk" data-tooltip="Both authors contributed equally to this research.">*</span>, <strong>Yutian Zhu</strong><span class="author-symbol asterisk" data-tooltip="Both authors contributed equally to this research.">*</span>, Qing Fang<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span>, Ligang Liu</div>
     <div class="paper-venue">ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2026)</div>
     <div class="paper-date">July, 2026</div>
@@ -69,7 +69,7 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <img src="/academic/images/publications/2025-guided-nerad.jpg" alt="GuidedNerad">
   </div>
   <div class="paper-info">
-    <div class="paper-title">Importance Sampling Guided Neural Radiosity</div>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0097849325003139" class="paper-title paper-title-link">Importance Sampling Guided Neural Radiosity</a>
     <div class="paper-authors">Huangsheng Du, Youcheng Cai<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span>, <strong>Yutian Zhu</strong>, Peifeng Li, and Ligang Liu</div>
     <div class="paper-venue">Computers & Graphics, 104472, 2025</div>
     <div class="paper-date">November, 2025</div>
