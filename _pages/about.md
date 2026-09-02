@@ -16,6 +16,7 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
 <a name="news"></a>
 # News
 
+- **2026-09**: Our paper “Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields” has been accepted to ACM Transactions on Graphics (TOG).
 - **2026-04**: Our paper "Probe-based Walk on Spheres for Efficient Path Reusing" has been accepted to ACM Transactions on Graphics (TOG).
 - **2026-03**: Glad to join the 3DGS group at the Graphics and Interaction Lab, Peking University, under the supervision of Prof. Sheng Li.
 - **2025-10**: Our paper "Importance Sampling Guided Neural Radiosity" has been accepted by ICXR 2025 and will be published in the Computers & Graphics journal.
@@ -32,12 +33,13 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
   <div class="paper-info">
     <div class="paper-title">Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields</div>
     <div class="paper-authors">Junke Zhu, Hao Zhang, <strong>Yutian Zhu</strong>, Ang Li, Chenxiao Hu, Meng Gai, Fei Zhu, Zhangjin Huang<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span>, Sheng Li<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span></div>
-    <div class="paper-venue">arXiv:2606.09606 [cs.GR]</div>
+    <div class="paper-venue">ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH Asia 2026)</div>
     <div class="paper-date">June, 2026</div>
     <div class="paper-links">
       <a href="https://junkzhu.github.io/project_pages/PTIR/" class="paper-btn">Project</a>
       <a href="https://arxiv.org/abs/2606.09606" class="paper-btn">Paper</a>
-      <!--a href="" class="paper-btn">Video</a-->
+      <span class="paper-btn paper-btn-disabled" aria-disabled="true">DOI</span>
+      <span class="paper-btn paper-btn-disabled" aria-disabled="true">Video</span>
       <a href="https://github.com/junkzhu/PTIR.git" class="paper-btn">Code</a>
     </div>
   </div>
@@ -55,6 +57,7 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <div class="paper-links">
       <a href="https://t7imal.github.io/projects/2026wop/" class="paper-btn">Project</a>
       <a href="https://t7imal.github.io/projects/2026wop/paper.pdf" class="paper-btn">Paper</a>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3811366" class="paper-btn">DOI</a>
       <a href="https://www.youtube.com/watch?v=oYvoeyQQdjQ" class="paper-btn">Video</a>
       <a href="https://github.com/USTCGCL-WoS/Walk-on-Probes.git" class="paper-btn">Code</a>
     </div>
@@ -71,7 +74,9 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <div class="paper-venue">Computers & Graphics, 104472, 2025</div>
     <div class="paper-date">November, 2025</div>
     <div class="paper-links">
+      <span class="paper-btn paper-btn-disabled" aria-disabled="true">Project</span>
       <a href="/academic/files/2025/guided_nerad.pdf" class="paper-btn">Paper</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0097849325003139" class="paper-btn">DOI</a>
       <a href="https://youtu.be/51uK7dNwYEk" class="paper-btn">Video</a>
       <a href="https://github.com/starrysky77/Importance-Sampling-Guided-Neural-Radiosity" class="paper-btn">Code</a>
     </div>
