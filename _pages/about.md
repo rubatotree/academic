@@ -34,11 +34,11 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <a href="https://junkzhu.github.io/project_pages/PTIR/" class="paper-title paper-title-link">Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields</a>
     <div class="paper-authors">Junke Zhu, Hao Zhang, <strong>Yutian Zhu</strong>, Ang Li, Chenxiao Hu, Meng Gai, Fei Zhu, Zhangjin Huang<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span>, Sheng Li<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span></div>
     <div class="paper-venue">ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH Asia 2026)</div>
-    <div class="paper-date">June, 2026</div>
+    <div class="paper-date">December, 2026</div>
     <div class="paper-links">
       <a href="https://junkzhu.github.io/project_pages/PTIR/" class="paper-btn">Project</a>
       <a href="https://arxiv.org/abs/2606.09606" class="paper-btn">Paper</a>
-      <span class="paper-btn paper-btn-disabled" aria-disabled="true">DOI</span>
+      <a href="https://doi.org/10.1145/3842545" class="paper-btn">DOI</a>
       <span class="paper-btn paper-btn-disabled" aria-disabled="true">Video</span>
       <a href="https://github.com/junkzhu/PTIR.git" class="paper-btn">Code</a>
     </div>
@@ -72,7 +72,7 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <a href="https://www.sciencedirect.com/science/article/pii/S0097849325003139" class="paper-title paper-title-link">Importance Sampling Guided Neural Radiosity</a>
     <div class="paper-authors">Huangsheng Du, Youcheng Cai<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span>, <strong>Yutian Zhu</strong>, Peifeng Li, and Ligang Liu</div>
     <div class="paper-venue">Computers & Graphics, 104472, 2025</div>
-    <div class="paper-date">November, 2025</div>
+    <div class="paper-date">December, 2025</div>
     <div class="paper-links">
       <span class="paper-btn paper-btn-disabled" aria-disabled="true">Project</span>
       <a href="/academic/files/2025/guided_nerad.pdf" class="paper-btn">Paper</a>
