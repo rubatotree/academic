@@ -161,8 +161,17 @@
 
   @media (max-width: 430px) {
     .paper-links {
-      flex-wrap: wrap;
-      justify-content: center;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+    }
+
+    .paper-btn {
+      padding: 4px 6px;
+      gap: 0;
+    }
+
+    .paper-btn span {
+      display: none;
     }
   }
   .author__content {
