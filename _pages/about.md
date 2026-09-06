@@ -7,7 +7,7 @@ author_profile: true
 
 I am a senior majoring in CS at the University of Science and Technology of China, and an incoming Master's student at the School of Computer Science, Peking University. I am exploring research in computer graphics, with additional interests in game development and art. 
 
-I am currently researching Embodied AI, 3DGS, and Neural Rendering at [Peking University's Graphics Lab of EECS](https://www.graphics.pku.edu.cn/index.htm), advised by [Prof. Sheng Li](https://www.graphics.pku.edu.cn/xztd/jgfaculty/lisheng/index.htm). Prior to this, I was advised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu/) at the [GCL Lab, USTC](http://gcl.ustc.edu.cn/), where my research focused on Neural Rendering and Monte Carlo PDE.
+I am currently researching Embodied AI, 3DGS, and Neural Rendering at [Peking University’s Graphics Intelligence Lab](https://www.graphics.pku.edu.cn/index.htm), advised by [Prof. Sheng Li](https://www.graphics.pku.edu.cn/xztd/jgfaculty/lisheng/index.htm). Prior to this, I was advised by [Prof. Ligang Liu](http://staff.ustc.edu.cn/~lgliu/) at the [GCL Lab, USTC](http://gcl.ustc.edu.cn/), where my research focused on Neural Rendering and Monte Carlo PDE.
 
 I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.github.io/blog/), where I regularly share my insights and learning notes on computer graphics, artificial intelligence, and mathematics.
 
