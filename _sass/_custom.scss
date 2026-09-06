@@ -82,6 +82,7 @@
   display: flex;
   gap: 10px;
   margin-top: 5px;
+  flex-wrap: nowrap;
 }
 
 .paper-btn {
@@ -94,6 +95,10 @@
   transition: all 0.15s ease;
   border: 2px solid #578efc;
   cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
 }
 
 .paper-btn:hover {
@@ -133,13 +138,32 @@
   }
 
   .paper-links {
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    gap: 6px;
+    justify-content: flex-start;
+  }
+
+  .paper-btn {
+    font-size: 0.78em;
+    padding: 3px 8px;
+    gap: 5px;
+  }
+
+  .paper-btn i {
+    font-size: 0.95em;
   }
 
   .author__avatar img {
     transform: scale(1.3);
     display: block;
     margin: 3px 5px auto;
+  }
+
+  @media (max-width: 430px) {
+    .paper-links {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
   }
   .author__content {
     padding-right: 12px;
