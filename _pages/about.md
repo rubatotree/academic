@@ -31,16 +31,16 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <img src="/academic/images/publications/2026-ptirgs.jpg" alt="Path-traced Inverse Rendered Gaussians">
   </div>
   <div class="paper-info">
-    <a href="https://junkzhu.github.io/project_pages/PTIR/" class="paper-title paper-title-link">Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields</a>
+    <a href="https://junkzhu.github.io/project_pages/PTIR/" class="paper-title paper-title-link">PTIR-GS: Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields</a>
     <div class="paper-authors">Junke Zhu, Hao Zhang, <strong>Yutian Zhu</strong>, Ang Li, Chenxiao Hu, Meng Gai, Fei Zhu, Zhangjin Huang<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span>, Sheng Li<span class="author-symbol dagger" data-tooltip="Corresponding author.">†</span></div>
     <div class="paper-venue">ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH Asia 2026)</div>
     <div class="paper-date">December, 2026</div>
     <div class="paper-links">
-      <a href="https://junkzhu.github.io/project_pages/PTIR/" class="paper-btn">Project</a>
-      <a href="https://arxiv.org/abs/2606.09606" class="paper-btn">Paper</a>
-      <a href="https://doi.org/10.1145/3842545" class="paper-btn">DOI</a>
-      <span class="paper-btn paper-btn-disabled" aria-disabled="true">Video</span>
-      <a href="https://github.com/junkzhu/PTIR.git" class="paper-btn">Code</a>
+      <a href="https://junkzhu.github.io/project_pages/PTIR/" class="paper-btn"><i class="fas fa-globe" aria-hidden="true"></i><span>Project</span></a>
+      <a href="https://arxiv.org/abs/2606.09606" class="paper-btn"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+      <a href="https://doi.org/10.1145/3842545" class="paper-btn"><i class="fas fa-link" aria-hidden="true"></i><span>DOI</span></a>
+      <span class="paper-btn paper-btn-disabled" aria-disabled="true"><i class="fab fa-youtube" aria-hidden="true"></i><span>Video</span></span>
+      <a href="https://github.com/junkzhu/PTIR.git" class="paper-btn"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
     </div>
   </div>
 </div>
@@ -55,11 +55,11 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <div class="paper-venue">ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2026)</div>
     <div class="paper-date">July, 2026</div>
     <div class="paper-links">
-      <a href="https://t7imal.github.io/projects/2026wop/" class="paper-btn">Project</a>
-      <a href="https://t7imal.github.io/projects/2026wop/paper.pdf" class="paper-btn">Paper</a>
-      <a href="https://dl.acm.org/doi/abs/10.1145/3811366" class="paper-btn">DOI</a>
-      <a href="https://www.youtube.com/watch?v=oYvoeyQQdjQ" class="paper-btn">Video</a>
-      <a href="https://github.com/USTCGCL-WoS/Walk-on-Probes.git" class="paper-btn">Code</a>
+      <a href="https://t7imal.github.io/projects/2026wop/" class="paper-btn"><i class="fas fa-globe" aria-hidden="true"></i><span>Project</span></a>
+      <a href="https://t7imal.github.io/projects/2026wop/paper.pdf" class="paper-btn"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3811366" class="paper-btn"><i class="fas fa-link" aria-hidden="true"></i><span>DOI</span></a>
+      <a href="https://www.youtube.com/watch?v=oYvoeyQQdjQ" class="paper-btn"><i class="fab fa-youtube" aria-hidden="true"></i><span>Video</span></a>
+      <a href="https://github.com/USTCGCL-WoS/Walk-on-Probes.git" class="paper-btn"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
     </div>
   </div>
 </div>
@@ -74,11 +74,11 @@ I have a Chinese technical blog titled [Umbrella Coffee](https://rubatotree.gith
     <div class="paper-venue">Computers & Graphics, 104472, 2025</div>
     <div class="paper-date">December, 2025</div>
     <div class="paper-links">
-      <span class="paper-btn paper-btn-disabled" aria-disabled="true">Project</span>
-      <a href="/academic/files/2025/guided_nerad.pdf" class="paper-btn">Paper</a>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0097849325003139" class="paper-btn">DOI</a>
-      <a href="https://youtu.be/51uK7dNwYEk" class="paper-btn">Video</a>
-      <a href="https://github.com/starrysky77/Importance-Sampling-Guided-Neural-Radiosity" class="paper-btn">Code</a>
+      <span class="paper-btn paper-btn-disabled" aria-disabled="true"><i class="fas fa-globe" aria-hidden="true"></i><span>Project</span></span>
+      <a href="/academic/files/2025/guided_nerad.pdf" class="paper-btn"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0097849325003139" class="paper-btn"><i class="fas fa-link" aria-hidden="true"></i><span>DOI</span></a>
+      <a href="https://youtu.be/51uK7dNwYEk" class="paper-btn"><i class="fab fa-youtube" aria-hidden="true"></i><span>Video</span></a>
+      <a href="https://github.com/starrysky77/Importance-Sampling-Guided-Neural-Radiosity" class="paper-btn"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
     </div>
   </div>
 </div>
